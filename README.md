@@ -33,3 +33,7 @@ Trading with Xbox Controls
 # House Rules
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/364a338b-0d19-48da-b0f1-e2d763439d32)
+
+# Movement
+
+![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/18586325-d865-467d-b9d0-d389b2c44cd1)
