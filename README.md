@@ -6,6 +6,8 @@ This is my most progressed project that started out as my A-Level computer scien
 
 It was written in Lua as that's the language that Roblox Studio uses. I used this engine because Lua is similar to Python meaning it would be easy for me to learn. This project can't be downloaded and ran due to the engine. However, some code and screenshots will be displayed to show you what it looks like. The game currently supports: Mobile, Tablet, PC and Xbox.
 
+# Screenshots
+
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/edb4aa0a-571c-4485-a09d-23dbd934ac67)
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/6c4f5708-4470-4951-a532-f18b87e254ec)
