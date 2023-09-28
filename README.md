@@ -22,8 +22,6 @@ It was written in Lua as that's the language that Roblox Studio uses. I used thi
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/ca5f3be2-e787-450b-8111-9b662117b7f8)
 
-Trading with Xbox Controls
-
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/d30310e6-6892-43b8-9c21-c87cfe549430)
 
 # Jail
