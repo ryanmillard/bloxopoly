@@ -22,5 +22,6 @@ Trading with Xbox Controls
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/d30310e6-6892-43b8-9c21-c87cfe549430)
 
+# Jail
 
-![Uploading image.png…]()
+![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/c5e841b2-e2be-4b5a-845c-3fcaa018a620)
