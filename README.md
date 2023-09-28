@@ -20,6 +20,8 @@ It was written in Lua as that's the language that Roblox Studio uses. I used thi
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/df958e3e-65e6-44a7-865f-65deb08c4123)
 
+![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/ca5f3be2-e787-450b-8111-9b662117b7f8)
+
 Trading with Xbox Controls
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/d30310e6-6892-43b8-9c21-c87cfe549430)
