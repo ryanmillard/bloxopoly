@@ -34,6 +34,8 @@ It was written in Lua as that's the language that Roblox Studio uses. I used thi
 
 ![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/7034e4bd-5aae-4e87-ab42-fea737af5d81)
 
+![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/3cf65aea-927e-428a-a030-d195beaab5e1)
+
 # Movement
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/18586325-d865-467d-b9d0-d389b2c44cd1)
