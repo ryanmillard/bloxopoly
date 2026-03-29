@@ -175,7 +175,7 @@ The screenshots below show both the final product and the game at various stages
 ### 4F. Grid Size Change - More Readable
 ![image](https://github.com/user-attachments/assets/ccbde39f-c182-45b6-867c-84c17850e5c4)
 
-### 4G. Dice Rolling (Gravity)
+### 4G. Early Dice Roll Physics
 
 https://github.com/user-attachments/assets/e9574521-600c-4caa-adbb-1d84e3486e8d
 
