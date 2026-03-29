@@ -107,17 +107,17 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/d30310e6-6892-43b8-9c21-c87cfe549430)
 
-### 4C. Jail
+### 3D. Jail
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/c5e841b2-e2be-4b5a-845c-3fcaa018a620)
 
-### 4D. Movement
+### 3E. Movement
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/18586325-d865-467d-b9d0-d389b2c44cd1)
 
 ![image](https://github.com/user-attachments/assets/58b23efc-957e-4dae-aec0-89d11380bf4b)
 
-### 4E. Money Animations
+### 3F. Money Animations
 
 ![image](https://github.com/user-attachments/assets/9ecdf177-cbf7-40f5-9280-fe0d83f4ca9a)
 
