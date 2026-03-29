@@ -27,9 +27,9 @@ The screenshots below show both the final product and the game at various stages
   - [3A. Rolling Dice](#3a-rolling-dice)
   - [3B. End of Turn Menu](#3b-end-of-turn-menu)
   - [3C. Trading](#3c-trading)
-  - [3D. Jail](#4c-jail)
-  - [3E. Movement](#4d-movement)
-  - [3F. Money Animations](#4e-money-animations)
+  - [3D. Jail](#3d-jail)
+  - [3E. Movement](#3e-movement)
+  - [3F. Money Animations](#3f-money-animations)
 
 ---
 
