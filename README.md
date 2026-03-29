@@ -9,8 +9,8 @@ It's also worth noting that this project was built entirely **without the use of
 The screenshots below show both the final product and the game at various stages of development. The in-development screenshots are scraps I was able to recover. Unfortunately, I don't have a complete timeline, but they should give a rough idea of how the game evolved over time.
 
 ## Table of Contents
-- [About](#1-about)
-  - [Thumbnails](#1a-thumbnails)
+- [1. About](#1-about)
+  - [1A. Thumbnails](#1a-thumbnails)
 ---
 
 ## 1. About
