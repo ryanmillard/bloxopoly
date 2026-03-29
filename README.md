@@ -131,4 +131,5 @@ The screenshots below show both the final product and the game at various stages
 ### 4B. Different Board Sizes
 ![image](https://github.com/user-attachments/assets/cf950e42-289f-4e43-bf33-6e8c20aca394)
 
+![image](https://github.com/user-attachments/assets/9b1262a9-2b11-45cd-9f45-061411c1c124)
 
