@@ -6,7 +6,7 @@ Development wrapped up in late 2023. It remains one of my most ambitious persona
 
 ## Table of Contents
 - [About](#about)
-
+  - [Thumbnails](#thumbnails)
 ---
 
 ## About
