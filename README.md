@@ -30,6 +30,7 @@ The screenshots below show both the final product and the game at various stages
   - [3D. Jail](#3d-jail)
   - [3E. Movement](#3e-movement)
   - [3F. Money Animations](#3f-money-animations)
+- [4. Abandoned & Early Concepts](#4-abandoned--early-concepts)
 
 ---
 
