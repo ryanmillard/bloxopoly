@@ -127,6 +127,12 @@ The screenshots below show both the final product and the game at various stages
 ### 3G. Mystery Cards
 ![image](https://github.com/user-attachments/assets/c9f32dc4-6067-48fb-b4cc-edae92023fde)
 
+### 3H. Tile Improvements
+![image](https://github.com/user-attachments/assets/0eed19af-b925-4dfc-baaf-123fdc1390be)
+
+![image](https://github.com/user-attachments/assets/e565384f-e9e5-4b64-b0e4-04095a13ec95)
+
+
 ## 4. Abandoned & Early Concepts
 
 ### 4A. Board Skins
