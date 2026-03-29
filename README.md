@@ -135,6 +135,8 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/user-attachments/assets/e565384f-e9e5-4b64-b0e4-04095a13ec95)
 
+### 3I. Auction - Bidding
+![image](https://github.com/user-attachments/assets/44fe8606-1422-4829-a184-38d3e6565d3d)
 
 ## 4. Abandoned & Early Concepts
 
