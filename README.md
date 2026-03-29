@@ -11,6 +11,7 @@ The screenshots below show both the final product and the game at various stages
 ## Table of Contents
 - [1. About](#1-about)
   - [1A. Thumbnails](#1a-thumbnails)
+  - [1B. Monthly Plays by Platform Graph](#1b-monthly-plays-by-platform-graph-screenshot-from-june-2023)
 - [2. Main Menu](#2-main-menu)
   - [2A. Main Menu Options](#2a-main-menu-options)
   - [2B. Lobby - Create or Join](#2b-lobby---create-or-join)
@@ -30,7 +31,16 @@ The screenshots below show both the final product and the game at various stages
   - [3D. Jail](#3d-jail)
   - [3E. Movement](#3e-movement)
   - [3F. Money Animations](#3f-money-animations)
+  - [3G. Mystery Cards](#3g-mystery-cards)
+  - [3H. Tile Improvements](#3h-tile-improvements)
+  - [3I. Auction - Bidding](#3i-auction---bidding)
 - [4. Abandoned & Early Concepts](#4-abandoned--early-concepts)
+  - [4A. Board Skins](#4a-board-skins)
+  - [4B. Different Board Sizes](#4b-different-board-sizes)
+  - [4C. First Attempt At Thumbnails](#4c-first-attempt-at-thumbnails)
+  - [4D. Final Logo Variations](#4d-final-logo-variations)
+  - [4E. First Version - Walkable Board](#4e-first-version---walkable-board)
+  - [4F. Grid Size Change - More Readable](#4f-grid-size-change---more-readable)
 
 ---
 
