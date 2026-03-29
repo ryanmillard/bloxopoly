@@ -54,6 +54,10 @@ The screenshots below show both the final product and the game at various stages
 ### 2I. Settings
 ![image](https://github.com/user-attachments/assets/5a9fe5c1-fb0f-4e08-a313-8d8a5f098ff3)
 
+### 2J. Dice Skins
+![image](https://github.com/user-attachments/assets/6357f1c2-f49a-4716-96b8-e8f2c0b44c79)
+
+
 ## 3. In Game
 
 ### 3A. Rolling Dice
