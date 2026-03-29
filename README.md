@@ -4,7 +4,12 @@ Bloxopoly is a Monopoly inspired game built in Roblox Studio. I grew up playing 
 
 Development wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** and an **82% positive rating** on the platform. The game has since been taken down, as it was more of an experiment than a long term project and I chose not to continue maintaining it.
 
+## Table of Contents
+- [About](#about)
+
 ---
+
+## About
 
 ![image](https://github.com/user-attachments/assets/3f4738f2-caf9-474c-8ced-5780dceabb8e)
 
