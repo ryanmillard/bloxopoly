@@ -33,11 +33,11 @@ The screenshots below show both the final product and the game at various stages
 ### 2B. Lobby - Create or Join
 ![image](https://github.com/user-attachments/assets/253a5a26-0d54-4a85-b1a1-bf5742bf3b17)
 
-### 2C. Create Lobby
-![image](https://github.com/user-attachments/assets/4d1bbe05-b400-4c1b-b59b-3ffa056a4e11)
-
-### 2D. Create Lobby Type
+### 2C. Create Lobby Type
 ![image](https://github.com/user-attachments/assets/f3926039-6f17-42df-8463-053981324c57)
+
+### 2D. Create Lobby
+![image](https://github.com/user-attachments/assets/4d1bbe05-b400-4c1b-b59b-3ffa056a4e11)
 
 ### 2E. Lobby
 ![image](https://github.com/user-attachments/assets/ec5c914d-1e2f-4aaa-a7f9-b8b12d977382)
