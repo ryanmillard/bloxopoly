@@ -41,6 +41,8 @@ The screenshots below show both the final product and the game at various stages
   - [4D. Final Logo Variations](#4d-final-logo-variations)
   - [4E. First Version - Walkable Board](#4e-first-version---walkable-board)
   - [4F. Grid Size Change - More Readable](#4f-grid-size-change---more-readable)
+  - [4G. Early Dice Roll Physics](#4g-early-dice-roll-physics)
+  - [4H. Early Board Piece Gameplay Reaction (Dances)](#4h-early-board-piece-gameplay-reaction-dances)
 
 ---
 
