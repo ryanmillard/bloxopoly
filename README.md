@@ -36,16 +36,19 @@ The screenshots below show both the final product and the game at various stages
 ### 2C. Create Lobby
 ![image](https://github.com/user-attachments/assets/4d1bbe05-b400-4c1b-b59b-3ffa056a4e11)
 
-### 2D. Lobby
+### 2D. Create Lobby Type
+![image](https://github.com/user-attachments/assets/f3926039-6f17-42df-8463-053981324c57)
+
+### 2E. Lobby
 ![image](https://github.com/user-attachments/assets/ec5c914d-1e2f-4aaa-a7f9-b8b12d977382)
 
-### 2E. Join Lobby
+### 2F. Join Lobby
 ![image](https://github.com/user-attachments/assets/76f1d284-c25e-40ac-abe7-3c19d0b2302b)
 
-### 2F. Shop - Gamepasses & Dice
+### 2G. Shop - Gamepasses & Dice
 ![image](https://github.com/user-attachments/assets/85e6ea58-132e-44ed-8dc5-d821267f0a3e)
 
-### 2G. Shop - Gold (In-game Currency)
+### 2H. Shop - Gold (In-game Currency)
 ![image](https://github.com/user-attachments/assets/6f58b7d9-ea60-407e-b755-ea692a00eef0)
 
 ## 3. In Game
