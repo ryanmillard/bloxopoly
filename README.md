@@ -46,7 +46,7 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/user-attachments/assets/3cafa553-f3d5-4b7a-99f2-07557651e9a4)
 
-### 1B. Plays Graph (Screenshot from June 2023)
+### 1B. Monthly Plays by Platform Graph (Screenshot from June 2023)
 ![image](https://github.com/user-attachments/assets/7ea9a469-58af-4bda-a244-8bd0c795a6f5)
 
 ## 2. Main Menu
