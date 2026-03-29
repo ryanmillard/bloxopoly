@@ -127,6 +127,7 @@ The screenshots below show both the final product and the game at various stages
 ## 4. Abandoned & Early Concepts
 
 ### 4A. Board Skins
+![image](https://github.com/user-attachments/assets/1ea8fd22-1f00-44e3-9ae7-1e9681a3ce30)
 
 ### 4B. Different Board Sizes
 ![image](https://github.com/user-attachments/assets/cf950e42-289f-4e43-bf33-6e8c20aca394)
