@@ -145,5 +145,6 @@ The screenshots below show both the final product and the game at various stages
 ### 4D. Final Logo Variations
 ![image](https://github.com/user-attachments/assets/aa55308d-4217-4f36-9fe5-ed94b0bea0fd)
 
-
+### 4E. First Version - Walkable Board
+![image](https://github.com/user-attachments/assets/764091f2-2027-436e-a92e-f8335ff50ce8)
 
