@@ -13,6 +13,8 @@ Development wrapped up in late 2023. It remains one of my most ambitious persona
 
 ![image](https://github.com/user-attachments/assets/3f4738f2-caf9-474c-8ced-5780dceabb8e)
 
+### Thumbnails
+
 ![image](https://github.com/user-attachments/assets/74bd5fb4-07ca-4fe5-bc2c-790ade634077)
 
 ![image](https://github.com/user-attachments/assets/6bd0b50f-3451-44ef-991b-2eacf654d403)
