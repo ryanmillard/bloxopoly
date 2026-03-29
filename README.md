@@ -51,6 +51,9 @@ The screenshots below show both the final product and the game at various stages
 ### 2H. Shop - Gold (In-game Currency)
 ![image](https://github.com/user-attachments/assets/6f58b7d9-ea60-407e-b755-ea692a00eef0)
 
+### 2I. Settings
+![image](https://github.com/user-attachments/assets/5a9fe5c1-fb0f-4e08-a313-8d8a5f098ff3)
+
 ## 3. In Game
 
 ### 3A. Rolling Dice
