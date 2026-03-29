@@ -2,7 +2,7 @@
 
 Bloxopoly is a Monopoly inspired game built in Roblox Studio. I grew up playing Roblox, which is a big part of why I chose Roblox Studio as the engine for this project. Lua, the programming language the engine uses, is also similar to Python which made the learning curve manageable. As a Roblox *"experience"*, it can't be run outside the platform, but code snippets and screenshots are included below to showcase my work. The game supports PC, mobile, tablet and console (Xbox/PlayStation).
 
-This was a solo project that I built in my spare time prior to me starting my professional career. Development spanned over a year and wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** and an **82% positive rating** on the platform. The game has since been taken down, as I chose not to continue maintaining it. It's also worth noting that this project was built entirely **without the use of AI tools**. Only good old fashioned human sweat and tears.
+This was a solo project that I built in my spare time prior to me starting my professional career. Development spanned over a year and wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** and an **82% positive rating** on the platform. The game has since been taken down, as I chose not to continue maintaining it. Especially because Monopoly isn't the type of game people play repeatedly which naturally limited potential long term player retention. It's also worth noting that this project was built entirely **without the use of AI tools**. Only good old fashioned human sweat and tears.
 
 ## Table of Contents
 - [About](#about)
