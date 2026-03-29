@@ -162,3 +162,5 @@ The screenshots below show both the final product and the game at various stages
 ### 4E. First Version - Walkable Board
 ![image](https://github.com/user-attachments/assets/764091f2-2027-436e-a92e-f8335ff50ce8)
 
+### 4F. Grid Size Change - More Readable
+![image](https://github.com/user-attachments/assets/ccbde39f-c182-45b6-867c-84c17850e5c4)
