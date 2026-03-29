@@ -1,6 +1,6 @@
 ![bloxopoly_logo](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/2d1b5c53-9a54-44f5-837f-742d10478345)
 
-It was written in Lua as that's the language that Roblox Studio uses. I used this engine because Lua is similar to Python meaning it would be easy for me to learn. This project can't be downloaded and ran easily due to the engine. However, some code and screenshots will be displayed to show you what it looks like. The game currently supports: Mobile, Tablet, PC and Xbox.
+Bloxopoly is a Monopoly inspired game built in Roblox Studio. I grew up playing Roblox, which is a big part of why I chose it for this project. Lua, the programming language the engine uses, is also similar to Python which made the learning curve manageable. As a Roblox experience, it can't be run outside the platform, but code snippets and screenshots are included below to showcase the work. The game supports PC, mobile, tablet and console (Xbox/PlayStation). Development wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** and an **82% positive rating** on the platform.
 
 # Screenshots
 
