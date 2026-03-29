@@ -42,6 +42,11 @@ The screenshots below show both the final product and the game at various stages
 ### 2E. Join Lobby
 ![image](https://github.com/user-attachments/assets/76f1d284-c25e-40ac-abe7-3c19d0b2302b)
 
+### 2F. Shop - Gamepasses & Dice
+![image](https://github.com/user-attachments/assets/85e6ea58-132e-44ed-8dc5-d821267f0a3e)
+
+### 2G. Shop - Gold (In-game Currency)
+![image](https://github.com/user-attachments/assets/6f58b7d9-ea60-407e-b755-ea692a00eef0)
 
 ## 3. In Game
 
