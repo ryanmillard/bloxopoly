@@ -25,17 +25,37 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/user-attachments/assets/3cafa553-f3d5-4b7a-99f2-07557651e9a4)
 
-# Screenshots
+## 2. Main Menu
+
+### 2A. Main Menu Options
+![image](https://github.com/user-attachments/assets/1377bc61-3c50-4e63-b0f4-e72968698c40)
+
+### 2B. Lobby - Create or Join
+![image](https://github.com/user-attachments/assets/253a5a26-0d54-4a85-b1a1-bf5742bf3b17)
+
+### 2C. Create Lobby
+![image](https://github.com/user-attachments/assets/4d1bbe05-b400-4c1b-b59b-3ffa056a4e11)
+
+### 2D. Lobby
+![image](https://github.com/user-attachments/assets/ec5c914d-1e2f-4aaa-a7f9-b8b12d977382)
+
+### 2E. Join Lobby
+![image](https://github.com/user-attachments/assets/76f1d284-c25e-40ac-abe7-3c19d0b2302b)
+
+
+## 3. In Game
+
+# 3A. Rolling Dice
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/edb4aa0a-571c-4485-a09d-23dbd934ac67)
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/6c4f5708-4470-4951-a532-f18b87e254ec)
 
-## Menu
+## 3B. End of Turn Menu
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/93236e80-cbf6-4cea-b1c1-5e70325558c1)
 
-## Trading
+## 3C. Trading
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/df958e3e-65e6-44a7-865f-65deb08c4123)
 
@@ -43,7 +63,7 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/d30310e6-6892-43b8-9c21-c87cfe549430)
 
-# Jail
+# 4C. Jail
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/c5e841b2-e2be-4b5a-845c-3fcaa018a620)
 
