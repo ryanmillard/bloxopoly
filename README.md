@@ -57,6 +57,15 @@ The screenshots below show both the final product and the game at various stages
 ### 2J. Dice Skins
 ![image](https://github.com/user-attachments/assets/6357f1c2-f49a-4716-96b8-e8f2c0b44c79)
 
+### 2K. House Rules
+
+![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/364a338b-0d19-48da-b0f1-e2d763439d32)
+
+![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/05fb2146-f901-4651-806a-f4b1bd10b212)
+
+![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/7034e4bd-5aae-4e87-ab42-fea737af5d81)
+
+![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/3cf65aea-927e-428a-a030-d195beaab5e1)
 
 ## 3. In Game
 
@@ -81,16 +90,6 @@ The screenshots below show both the final product and the game at various stages
 ### 4C. Jail
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/c5e841b2-e2be-4b5a-845c-3fcaa018a620)
-
-# House Rules
-
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/364a338b-0d19-48da-b0f1-e2d763439d32)
-
-![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/05fb2146-f901-4651-806a-f4b1bd10b212)
-
-![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/7034e4bd-5aae-4e87-ab42-fea737af5d81)
-
-![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/3cf65aea-927e-428a-a030-d195beaab5e1)
 
 # Movement
 
