@@ -11,6 +11,26 @@ The screenshots below show both the final product and the game at various stages
 ## Table of Contents
 - [1. About](#1-about)
   - [1A. Thumbnails](#1a-thumbnails)
+- [2. Main Menu](#2-main-menu)
+  - [2A. Main Menu Options](#2a-main-menu-options)
+  - [2B. Lobby - Create or Join](#2b-lobby---create-or-join)
+  - [2C. Create Lobby Type](#2c-create-lobby-type)
+  - [2D. Create Lobby](#2d-create-lobby)
+  - [2E. Lobby](#2e-lobby)
+  - [2F. Join Lobby](#2f-join-lobby)
+  - [2G. Shop - Gamepasses & Dice](#2g-shop---gamepasses--dice)
+  - [2H. Shop - Gold (In-game Currency)](#2h-shop---gold-in-game-currency)
+  - [2I. Settings](#2i-settings)
+  - [2J. Dice Skins](#2j-dice-skins)
+  - [2K. House Rules](#2k-house-rules)
+- [3. In Game](#3-in-game)
+  - [3A. Rolling Dice](#3a-rolling-dice)
+  - [3B. End of Turn Menu](#3b-end-of-turn-menu)
+  - [3C. Trading](#3c-trading)
+  - [3D. Jail](#4c-jail)
+  - [3E. Movement](#4d-movement)
+  - [3F. Money Animations](#4e-money-animations)
+
 ---
 
 ## 1. About
