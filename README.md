@@ -97,3 +97,9 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/user-attachments/assets/58b23efc-957e-4dae-aec0-89d11380bf4b)
 
+### 4E. Money Animations
+
+![image](https://github.com/user-attachments/assets/9ecdf177-cbf7-40f5-9280-fe0d83f4ca9a)
+
+![image](https://github.com/user-attachments/assets/2da23868-b377-42e3-8cee-e6cb3f8da8c3)
+
