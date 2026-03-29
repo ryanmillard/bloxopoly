@@ -134,3 +134,13 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/user-attachments/assets/9b1262a9-2b11-45cd-9f45-061411c1c124)
 
+### 4C. First Attempt At Thumbnails
+
+![image](https://github.com/user-attachments/assets/f165e572-5ace-4634-b140-0349336762f2)
+
+![image](https://github.com/user-attachments/assets/9a11ef81-4bf1-4695-969b-649c533167c3)
+
+![image](https://github.com/user-attachments/assets/47a7c229-2a27-4791-a8f5-d5a938243cde)
+
+
+
