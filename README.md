@@ -142,5 +142,8 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/user-attachments/assets/47a7c229-2a27-4791-a8f5-d5a938243cde)
 
+### 4D. Final Logo Variations
+![image](https://github.com/user-attachments/assets/aa55308d-4217-4f36-9fe5-ed94b0bea0fd)
+
 
 
