@@ -124,6 +124,9 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/user-attachments/assets/2da23868-b377-42e3-8cee-e6cb3f8da8c3)
 
+### 3G. Mystery Cards
+![image](https://github.com/user-attachments/assets/c9f32dc4-6067-48fb-b4cc-edae92023fde)
+
 ## 4. Abandoned & Early Concepts
 
 ### 4A. Board Skins
