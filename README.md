@@ -91,6 +91,9 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/c5e841b2-e2be-4b5a-845c-3fcaa018a620)
 
-# Movement
+### 4D. Movement
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/18586325-d865-467d-b9d0-d389b2c44cd1)
+
+![image](https://github.com/user-attachments/assets/58b23efc-957e-4dae-aec0-89d11380bf4b)
+
