@@ -45,17 +45,17 @@ The screenshots below show both the final product and the game at various stages
 
 ## 3. In Game
 
-# 3A. Rolling Dice
+### 3A. Rolling Dice
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/edb4aa0a-571c-4485-a09d-23dbd934ac67)
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/6c4f5708-4470-4951-a532-f18b87e254ec)
 
-## 3B. End of Turn Menu
+### 3B. End of Turn Menu
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/93236e80-cbf6-4cea-b1c1-5e70325558c1)
 
-## 3C. Trading
+### 3C. Trading
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/df958e3e-65e6-44a7-865f-65deb08c4123)
 
@@ -63,7 +63,7 @@ The screenshots below show both the final product and the game at various stages
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/d30310e6-6892-43b8-9c21-c87cfe549430)
 
-# 4C. Jail
+### 4C. Jail
 
 ![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/c5e841b2-e2be-4b5a-845c-3fcaa018a620)
 
