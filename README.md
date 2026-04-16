@@ -1,10 +1,12 @@
 ![bloxopoly_logo](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/2d1b5c53-9a54-44f5-837f-742d10478345)
 
-Bloxopoly was a free-to-play Monopoly inspired game built in Roblox Studio. I grew up playing Roblox, which is a big part of why I chose Roblox Studio as the engine for this project. Lua, the programming language the engine uses, is also similar to Python which made the learning curve manageable. As a Roblox *"experience"*, it can't be run outside the platform, but code snippets and screenshots are included below to showcase my work. The game supported: **PC**, **Mobile**, **Tablet** and **Console** (Xbox/PlayStation). The game supported 2 to 4 players, with the option to fill any empty slots with bots.
+Bloxopoly is a free-to-play Monopoly inspired game built in Roblox Studio (Lua). As a Roblox *"experience"*, it can't be run outside the platform, but code snippets and screenshots are included below to showcase my work. The game supported: **PC**, **Mobile**, **Tablet** and **Console** (Xbox/PlayStation). The game supported 2 to 4 players, with the option to fill any empty slots with bots.
 
-This was a solo project that I built in my spare time prior to me starting my professional career. Development spanned over a year and wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** and an **82% positive rating** on the platform. The game has since been taken down, as I chose not to continue maintaining it, partly because Monopoly isn't the type of game people play repeatedly, which naturally limited potential long term player retention, and the obvious copyright concerns that would come with scaling it further. Throughout development the game went through multiple iterations, with the camera, UI and overall look and feel changing significantly from the early prototype to the final version.
+This was a solo project that I built in my spare time prior to me starting my professional career. Development spanned over a year and wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** and an **82% positive rating** on the platform. The game has since been taken down, as I chose not to continue maintaining it, partly because Monopoly isn't the type of game people play repeatedly, which naturally limited potential long term player retention, and the obvious copyright concerns that would come with scaling it further.
 
-It's also worth noting that this project was built **without** the use of AI tools. Only good old fashioned human sweat and tears.
+Throughout development the game went through multiple iterations, with the camera, UI and overall look and feel changing significantly from the early prototype to the final version.
+
+It's also worth noting that this project was built **without** the use of AI tools.
 
 The screenshots below show both the final product and the game at various stages of development. The in-development screenshots are scraps I was able to recover. Unfortunately, I don't have a complete timeline, but they should give a rough idea of how the game evolved over time.
 
