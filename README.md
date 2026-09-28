@@ -43,9 +43,10 @@ The screenshots below show both the final product and the game at various stages
   - [4D. Final Logo Variations](#4d-final-logo-variations)
   - [4E. First Version - Walkable Board](#4e-first-version---walkable-board)
   - [4F. Grid Size Change - More Readable](#4f-grid-size-change---more-readable)
-  - [4G. Early Dice Roll Physics](#4g-early-dice-roll-physics)
-  - [4H. Early Board Piece Gameplay Reaction (Dances)](#4h-early-board-piece-gameplay-reaction-dances)
-  - [4I. User Reactions](#4i-user-reactions)
+  - [4G. Early Lobby Design](#4g-early-lobby-design)
+  - [4H. Early Dice Roll Physics](#4h-early-dice-roll-physics)
+  - [4I. Early Board Piece Gameplay Reaction (Dances)](#4i-early-board-piece-gameplay-reaction-dances)
+  - [4J. User Reactions](#4j-user-reactions)
 ---
 
 ## 1. About
@@ -179,13 +180,16 @@ The screenshots below show both the final product and the game at various stages
 ### 4F. Grid Size Change - More Readable
 ![image](https://github.com/user-attachments/assets/ccbde39f-c182-45b6-867c-84c17850e5c4)
 
-### 4G. Early Dice Roll Physics
+### 4G. Early Lobby Design
+![Early Lobby Design](assets/concepts/lobby-concept.png)
+
+### 4H. Early Dice Roll Physics
 ![Dice Roll](assets/concepts/dice-rolling.gif)
 
-### 4H. Early Board Piece Gameplay Reaction (Dances)
+### 4I. Early Board Piece Gameplay Reaction (Dances)
 ![Board Piece Reacts to Gameplay by Break Dancing](assets/concepts/board-piece-reaction.gif)
 
-### 4I. User Reactions
+### 4J. User Reactions
 
 Animated emojis sourced from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set.
 
