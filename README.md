@@ -180,7 +180,7 @@ The screenshots below show both the final product and the game at various stages
 ![image](https://github.com/user-attachments/assets/ccbde39f-c182-45b6-867c-84c17850e5c4)
 
 ### 4G. Early Dice Roll Physics
-https://github.com/user-attachments/assets/e9574521-600c-4caa-adbb-1d84e3486e8d
+![Dice Roll](assets/concepts/dice-rolling.gif)
 
 ### 4H. Early Board Piece Gameplay Reaction (Dances)
 ![Board Piece Reacts to Gameplay by Break Dancing](assets/concepts/board-piece-reaction.gif)
