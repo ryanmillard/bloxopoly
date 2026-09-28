@@ -187,9 +187,10 @@ The screenshots below show both the final product and the game at various stages
 ![Dice Roll](assets/concepts/dice-rolling.gif)
 
 ### 4I. Early Board Piece Gameplay Reaction (Dances)
-![Board Piece Reacts to Gameplay by Break Dancing](assets/concepts/board-piece-reaction.gif)
 
 Board pieces (player avatars) would react to what happened in-game. For example, break dancing when receiving rent from another player.
+
+![Board Piece Reacts to Gameplay by Break Dancing](assets/concepts/board-piece-reaction.gif)
 
 ### 4J. User Reactions
 
