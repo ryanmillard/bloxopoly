@@ -54,11 +54,11 @@ The screenshots below show both the final product and the game at various stages
 
 ### 1A. Thumbnails
 
-![image](https://github.com/user-attachments/assets/74bd5fb4-07ca-4fe5-bc2c-790ade634077)
+![image](assets/thumbnails/thumbnail-1.jpg)
 
-![image](https://github.com/user-attachments/assets/6bd0b50f-3451-44ef-991b-2eacf654d403)
+![image](assets/thumbnails/thumbnail-2.jpg)
 
-![image](https://github.com/user-attachments/assets/3cafa553-f3d5-4b7a-99f2-07557651e9a4)
+![image](assets/thumbnails/thumbnail-3.jpg)
 
 ### 1B. Monthly Plays by Platform Graph (Screenshot from June 2023)
 ![image](https://github.com/user-attachments/assets/7ea9a469-58af-4bda-a244-8bd0c795a6f5)
