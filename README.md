@@ -50,15 +50,15 @@ The screenshots below show both the final product and the game at various stages
 
 ## 1. About
 
-![image](https://github.com/user-attachments/assets/3f4738f2-caf9-474c-8ced-5780dceabb8e)
+![Game Page](assets/game-page.png)
 
 ### 1A. Thumbnails
 
-![image](assets/thumbnails/thumbnail-1.jpg)
+![Logo Thumbnail](assets/thumbnails/thumbnail-1.jpg)
 
-![image](assets/thumbnails/thumbnail-2.jpg)
+![Game Board Thumbnail](assets/thumbnails/thumbnail-2.jpg)
 
-![image](assets/thumbnails/thumbnail-3.jpg)
+![Dice Skins Thumbnail](assets/thumbnails/thumbnail-3.jpg)
 
 ### 1B. Monthly Plays by Platform Graph (Screenshot from June 2023)
 ![image](https://github.com/user-attachments/assets/7ea9a469-58af-4bda-a244-8bd0c795a6f5)
