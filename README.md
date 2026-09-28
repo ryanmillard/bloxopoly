@@ -1,4 +1,4 @@
-![bloxopoly_logo](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/2d1b5c53-9a54-44f5-837f-742d10478345)
+![Bloxopoly Logo](assets/bloxopoly-logo.png)
 
 Bloxopoly is a free-to-play Monopoly inspired game built in Roblox Studio (Lua). As a Roblox *"experience"*, it can't be run outside the platform, but code snippets and screenshots are included below to showcase my work. The game supported: **PC**, **Mobile**, **Tablet** and **Console** (Xbox/PlayStation). The game supported 1 to 4 players, with the option to fill any empty slots with bots.
 
