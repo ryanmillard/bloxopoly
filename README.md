@@ -45,7 +45,7 @@ The screenshots below show both the final product and the game at various stages
   - [4F. Grid Size Change - More Readable](#4f-grid-size-change---more-readable)
   - [4G. Early Dice Roll Physics](#4g-early-dice-roll-physics)
   - [4H. Early Board Piece Gameplay Reaction (Dances)](#4h-early-board-piece-gameplay-reaction-dances)
-
+  - [4I. User Reactions](#4i-user-reactions)
 ---
 
 ## 1. About
@@ -186,4 +186,7 @@ https://github.com/user-attachments/assets/e9574521-600c-4caa-adbb-1d84e3486e8d
 https://github.com/user-attachments/assets/9ecdd2c1-2b91-40a2-bf7d-586333ec15c7
 
 ### 4I. User Reactions
-![User Reactions](assets/concepts/user-reactions.gif)
+
+![Player using an emoji reaction during a game](assets/concepts/user-reactions.gif)
+
+Animated emojis from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set.
