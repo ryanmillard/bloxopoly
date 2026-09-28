@@ -184,6 +184,9 @@ The screenshots below show both the final product and the game at various stages
 ![Early Lobby Design](assets/concepts/lobby-concept.png)
 
 ### 4H. Early Dice Roll Physics
+
+Dice were dropped from a height at a random rotation, and the result was read from whichever face landed facing up.
+
 ![Dice Roll](assets/concepts/dice-rolling.gif)
 
 ### 4I. Early Board Piece Gameplay Reaction (Dances)
