@@ -61,27 +61,27 @@ The screenshots below show both the final product and the game at various stages
 ![Dice Skins Thumbnail](assets/thumbnails/thumbnail-3.jpg)
 
 ### 1B. Monthly Plays by Platform Graph (Screenshot from June 2023)
-![image](https://github.com/user-attachments/assets/7ea9a469-58af-4bda-a244-8bd0c795a6f5)
+![Visits by Platform Graph (June 2023)](assets/visits-graph.png)
 
 ## 2. Main Menu
 
 ### 2A. Main Menu Options
-![image](https://github.com/user-attachments/assets/1377bc61-3c50-4e63-b0f4-e72968698c40)
+![Main Menu - Options](assets/screenshots/main-menu-options.png)
 
 ### 2B. Lobby - Create or Join
-![image](https://github.com/user-attachments/assets/253a5a26-0d54-4a85-b1a1-bf5742bf3b17)
+![Lobby - Create or Join](assets/screenshots/lobby-create-or-join.png)
 
 ### 2C. Create Lobby Type
-![image](https://github.com/user-attachments/assets/f3926039-6f17-42df-8463-053981324c57)
+![Lobby - Create Type](assets/screenshots/lobby-create-type.png)
 
-### 2D. Create Lobby
-![image](https://github.com/user-attachments/assets/4d1bbe05-b400-4c1b-b59b-3ffa056a4e11)
+### 2D. Create Lobby Game Type
+![Lobby - Create Game Type](assets/screenshots/lobby-create-game-type.png)
 
 ### 2E. Lobby
-![image](https://github.com/user-attachments/assets/ec5c914d-1e2f-4aaa-a7f9-b8b12d977382)
+![Lobby](assets/screenshots/lobby.png)
 
 ### 2F. Join Lobby
-![image](https://github.com/user-attachments/assets/76f1d284-c25e-40ac-abe7-3c19d0b2302b)
+![Lobby - Join Lobby](assets/screenshots/lobby-join.png)
 
 ### 2G. Shop - Gamepasses & Dice
 ![image](https://github.com/user-attachments/assets/85e6ea58-132e-44ed-8dc5-d821267f0a3e)
