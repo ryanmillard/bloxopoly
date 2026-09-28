@@ -194,6 +194,6 @@ Board pieces (player avatars) would react to what happened in-game. For example,
 
 ### 4J. User Reactions
 
-Animated emojis sourced from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set.
+In-game player reactions (non-verbal communication) concept using Animated emojis sourced from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set. This was inspired by Risk: Global Domination's emote system.
 
 ![Player using an emoji reaction during a game](assets/concepts/user-reactions.gif)
