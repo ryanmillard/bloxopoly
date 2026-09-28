@@ -189,6 +189,8 @@ The screenshots below show both the final product and the game at various stages
 ### 4I. Early Board Piece Gameplay Reaction (Dances)
 ![Board Piece Reacts to Gameplay by Break Dancing](assets/concepts/board-piece-reaction.gif)
 
+Board pieces (player avatars) would react to what happened in-game. For example, break dancing when receiving rent from another player.
+
 ### 4J. User Reactions
 
 Animated emojis sourced from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set.
