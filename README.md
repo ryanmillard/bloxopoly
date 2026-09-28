@@ -187,5 +187,6 @@ https://github.com/user-attachments/assets/9ecdd2c1-2b91-40a2-bf7d-586333ec15c7
 
 ### 4I. User Reactions
 
-Animated emojis from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set.
+Animated emojis sourced from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set.
+
 ![Player using an emoji reaction during a game](assets/concepts/user-reactions.gif)
