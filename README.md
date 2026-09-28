@@ -183,7 +183,7 @@ The screenshots below show both the final product and the game at various stages
 https://github.com/user-attachments/assets/e9574521-600c-4caa-adbb-1d84e3486e8d
 
 ### 4H. Early Board Piece Gameplay Reaction (Dances)
-https://github.com/user-attachments/assets/9ecdd2c1-2b91-40a2-bf7d-586333ec15c7
+![Board Piece Reacts to Gameplay by Break Dancing](assets/concepts/board-piece-reaction.gif)
 
 ### 4I. User Reactions
 
