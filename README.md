@@ -6,9 +6,10 @@ This was a solo project that I built in my spare time prior to me starting my pr
 
 Throughout development the game went through multiple iterations, with the camera, UI and overall look and feel changing significantly from the early prototype to the final version.
 
-It's also worth noting that this project was built **without** the use of AI tools.
-
 The screenshots below show both the final product and the game at various stages of development. The in-development screenshots are scraps I was able to recover. Unfortunately, I don't have a complete timeline, but they should give a rough idea of how the game evolved over time.
+
+>[!note]
+> It's also worth noting that this project was built **without** the use of AI tools.
 
 ## Table of Contents
 - [1. About](#1-about)
@@ -182,8 +183,8 @@ The screenshots below show both the final product and the game at various stages
 ### 4F. Grid Size Change - More Readable
 ![image](https://github.com/user-attachments/assets/ccbde39f-c182-45b6-867c-84c17850e5c4)
 
-### 4G. Early Lobby Design
-![Early Lobby Design](assets/concepts/lobby-concept.png)
+### 4G. Early Main Menu Design
+![Early Main Menu](assets/concepts/main-menu-concept.png)
 
 ### 4H. Early Dice Roll Physics
 
