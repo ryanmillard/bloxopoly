@@ -11,7 +11,7 @@ Throughout development the game went through multiple iterations, with the camer
 The screenshots below show both the final product and the game at various stages of development. The in-development screenshots are scraps I was able to recover. Unfortunately, I don't have a complete timeline, but they should give a rough idea of how the game evolved over time.
 
 >[!note]
-> It's worth noting that this project was built **without** the use of AI tools. Development had basically wrapped up before they were widely available. This is all my slop.
+> It's worth noting that this project was built **without** the use of AI tools. Development had basically wrapped up before they became widely available. This is all my slop.
 
 ## Table of Contents
 - [1. About](#1-about)
