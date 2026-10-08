@@ -2,14 +2,14 @@
 
 Bloxopoly is a free-to-play Monopoly inspired game built in Roblox Studio (Lua). As a Roblox *"experience"*, it can't be run outside the platform, but code snippets and screenshots are included below to showcase my work. The game supported: **PC**, **Mobile**, **Tablet** and **Console** (Xbox/PlayStation). The game supported 1 to 4 players, with the option to fill any empty slots with bots.
 
-This was a solo project that I built in my spare time prior to me starting my professional career. Development spanned over a year and wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** and an **82% positive rating** on the platform. The game has since been taken down, as I chose not to continue maintaining it, partly because Monopoly isn't the type of game people play repeatedly, which naturally limited potential long term player retention, and the obvious copyright concerns that would come with scaling it further.
+This was a solo project that I built in my spare time prior to me starting my professional career. Development spanned over a year and wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** across **13k+ users** with an **82% positive rating** on the platform. The game has since been taken down, as I chose not to continue maintaining it, partly because Monopoly isn't the type of game people play repeatedly, which naturally limited potential long term player retention, and the obvious copyright concerns that would come with scaling it further.
 
 Throughout development the game went through multiple iterations, with the camera, UI and overall look and feel changing significantly from the early prototype to the final version.
 
 The screenshots below show both the final product and the game at various stages of development. The in-development screenshots are scraps I was able to recover. Unfortunately, I don't have a complete timeline, but they should give a rough idea of how the game evolved over time.
 
 >[!note]
-> It's also worth noting that this project was built **without** the use of AI tools. Development had basically wrapped up before they were widely available. It's all my slop.
+> It's also worth noting that this project was built **without** the use of AI tools. Development had basically wrapped up before they were widely available. This is all my slop.
 
 ## Table of Contents
 - [1. About](#1-about)
