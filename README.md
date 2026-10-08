@@ -1,6 +1,6 @@
 ![Bloxopoly Logo](assets/bloxopoly-logo.png)
 
-Bloxopoly is a free-to-play cross-platform multiplayer Monopoly-inspired game built in Roblox Studio (Lua). As a Roblox *"experience"*, it can't be run outside the platform, but code snippets and screenshots are included below to showcase my work. The game supported **PC**, **Mobile**, **Tablet**, and **Console** (Xbox/PlayStation), with 1-4 players total and bots filling any empty slots.
+Bloxopoly is a free-to-play cross-platform multiplayer Monopoly-inspired game built in Roblox Studio (Lua). As a Roblox *"experience"*, it can't be run outside the platform, but code snippets and screenshots are included below to showcase my work. The game supported **PC**, **Mobile**, **Tablet**, and **Console** (Xbox/PlayStation), for 1-4 players with bots filling any empty slots.
 
 This was a solo project that I built in my spare time prior to me starting my professional career. Development spanned over a year and wrapped up in late 2023. It remains one of my most ambitious personal projects, accumulating **38.8k plays** across **13k+ users** with an **82% positive rating** on the platform.
 
