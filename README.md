@@ -113,9 +113,9 @@ The screenshots below show both the final product and the game at various stages
 
 ### 3A. Rolling Dice
 
-![image](assets/screenshots/rolling-dice-user-prompt.png)
+![Roll Dice - User Prompt Button](assets/screenshots/rolling-dice-user-prompt.png)
 
-![image](assets/screenshots/rolling-dice-interacted.png)
+![Roll Dice - Dice Rolling](assets/screenshots/rolling-dice-interacted.png)
 
 ### 3B. End of Turn Menu
 
@@ -123,37 +123,35 @@ The screenshots below show both the final product and the game at various stages
 
 ### 3C. Trading
 
-![image](assets/screenshots/trading-select-player.png)
+![Trading - Select Player](assets/screenshots/trading-select-player.png)
 
-![image](assets/screenshots/trading-offer.png)
+![Trading - Select Player (Console)](assets/screenshots/trading-select-player-console.png)
 
-![image](assets/screenshots/trading-select-player-console.png)
+![Trading - Offer](assets/screenshots/trading-offer.png)
 
 ### 3D. Jail
 
-![image](assets/screenshots/jail-menu.png)
+![Jail Menu Options](assets/screenshots/jail-menu.png)
 
 ### 3E. Movement
 
-![image](assets/screenshots/movement-example-1.png)
+![Movement - Example 1](assets/screenshots/movement-example-1.png)
 
-![image](assets/screenshots/movement-example-2.png)
+![Movement - Example 2](assets/screenshots/movement-example-2.png)
 
-![GIF of movement](assets/player-movement.gif)
+![Movement - Example 3](assets/player-movement.gif)
 
 ### 3F. Money Animations
 
-![image](assets/screenshots/money-animations-example-1.png)
+![Money Billboard - Example 1](assets/screenshots/money-animations-example-1.png)
 
-![image](assets/screenshots/money-animations-example-2.png)
+![Money Billboard - Example 2](assets/screenshots/money-animations-example-2.png)
 
 ### 3G. Mystery Cards
-![image](assets/screenshots/mystery-cards.png)
+![Mystery Card](assets/screenshots/mystery-cards.png)
 
 ### 3H. Tile Improvements
-![image](assets/screenshots/tile-improvements-example-1.png)
-
-![image](assets/screenshots/tile-improvements-example-2.png)
+![Tile Improvements](assets/screenshots/tile-improvements.png)
 
 > [!NOTE]
 > Different Build Rules allowed you to changed how player's can build improvements.
