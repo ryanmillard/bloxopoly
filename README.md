@@ -88,16 +88,16 @@ The screenshots below show both the final product and the game at various stages
 ![Lobby - Join Lobby](assets/screenshots/lobby-join.png)
 
 ### 2G. Shop - Gamepasses & Dice
-![image](https://github.com/user-attachments/assets/85e6ea58-132e-44ed-8dc5-d821267f0a3e)
+![image](assets/screenshots/shop-gamepasses-and-dice.png)
 
 ### 2H. Shop - Gold (In-game Currency)
-![image](https://github.com/user-attachments/assets/6f58b7d9-ea60-407e-b755-ea692a00eef0)
+![image](assets/screenshots/shop-gold.png)
 
 ### 2I. Settings
-![image](https://github.com/user-attachments/assets/5a9fe5c1-fb0f-4e08-a313-8d8a5f098ff3)
+![image](assets/screenshots/settings.png)
 
 ### 2J. Dice Skins
-![image](https://github.com/user-attachments/assets/6357f1c2-f49a-4716-96b8-e8f2c0b44c79)
+![image](assets/screenshots/inventory-dice-skins.png)
 
 ### 2K. House Rules
 
