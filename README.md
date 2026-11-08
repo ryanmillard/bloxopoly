@@ -203,10 +203,10 @@ Board pieces (player avatars) would react to what happened in-game. For example,
 
 ![Board Piece Reacts to Gameplay by Break Dancing](assets/concepts/board-piece-reaction.gif)
 
+![Explorer - Emotes](assets/screenshots/explorer-emotes.png)
+
 ### 4J. User Reactions
 
 In-game player reactions (non-verbal communication) concept using Animated emojis sourced from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set. This was inspired by [Risk: Global Domination](https://store.steampowered.com/app/1128810/RISK_Global_Domination/)'s emote system.
 
 ![Player using an emoji reaction during a game](assets/concepts/user-reactions.gif)
-
-![Explorer - Emotes](assets/screenshots/explorer-emotes.png)
