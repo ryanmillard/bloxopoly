@@ -10,7 +10,7 @@ Throughout development the game went through multiple iterations, with the camer
 
 The screenshots below show both the final product and the game at various stages of development. The in-development screenshots are scraps I was able to recover. Unfortunately, I don't have a complete timeline, but they should give a rough idea of how the game evolved over time.
 
->[!note]
+>[!important]
 > It's worth noting that this project was built **without** the use of AI tools. Development had almost completely wrapped up before they became widely available.
 
 ## Table of Contents
@@ -113,47 +113,53 @@ The screenshots below show both the final product and the game at various stages
 
 ### 3A. Rolling Dice
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/edb4aa0a-571c-4485-a09d-23dbd934ac67)
+![image](assets/screenshots/rolling-dice-user-prompt.png)
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/6c4f5708-4470-4951-a532-f18b87e254ec)
+![image](assets/screenshots/rolling-dice-interacted.png)
 
 ### 3B. End of Turn Menu
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/93236e80-cbf6-4cea-b1c1-5e70325558c1)
+![image](assets/screenshots/end-of-turn-menu.png)
 
 ### 3C. Trading
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/df958e3e-65e6-44a7-865f-65deb08c4123)
+![image](assets/screenshots/trading-select-player.png)
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/ca5f3be2-e787-450b-8111-9b662117b7f8)
+![image](assets/screenshots/trading-offer.png)
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/d30310e6-6892-43b8-9c21-c87cfe549430)
+![image](assets/screenshots/trading-select-player-console.png)
 
 ### 3D. Jail
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/c5e841b2-e2be-4b5a-845c-3fcaa018a620)
+![image](assets/screenshots/jail-menu.png)
 
 ### 3E. Movement
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/18586325-d865-467d-b9d0-d389b2c44cd1)
+![image](assets/screenshots/movement-example-1.png)
 
-![image](https://github.com/user-attachments/assets/58b23efc-957e-4dae-aec0-89d11380bf4b)
+![image](assets/screenshots/movement-example-2.png)
 
 ![GIF of movement](assets/player-movement.gif)
 
 ### 3F. Money Animations
 
-![image](https://github.com/user-attachments/assets/9ecdf177-cbf7-40f5-9280-fe0d83f4ca9a)
+![image](assets/screenshots/money-animations-example-1.png)
 
-![image](https://github.com/user-attachments/assets/2da23868-b377-42e3-8cee-e6cb3f8da8c3)
+![image](assets/screenshots/money-animations-example-2.png)
 
 ### 3G. Mystery Cards
-![image](https://github.com/user-attachments/assets/c9f32dc4-6067-48fb-b4cc-edae92023fde)
+![image](assets/screenshots/mystery-cards.png)
 
 ### 3H. Tile Improvements
-![image](https://github.com/user-attachments/assets/0eed19af-b925-4dfc-baaf-123fdc1390be)
+![image](assets/screenshots/tile-improvements-example-1.png)
 
-![image](https://github.com/user-attachments/assets/e565384f-e9e5-4b64-b0e4-04095a13ec95)
+![image](assets/screenshots/tile-improvements-example-2.png)
+
+>[!note] Build Rules
+> Different build rules allowed you to changed how player's can build improvements.
+> 1. Even Build (Default): With Even Build, houses must be built evenly on each property in a color group.
+> 2. Free Build: Free Build allow houses to be built unevenly once a complete color group is owned.
+> 3. City Build: City Build allow houses to be built without owning a color group.
 
 ### 3I. Auction - Bidding
 ![image](https://github.com/user-attachments/assets/44fe8606-1422-4829-a184-38d3e6565d3d)
