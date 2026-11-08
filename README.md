@@ -153,7 +153,7 @@ The screenshots below show both the final product and the game at various stages
 ### 3H. Tile Improvements
 ![Tile Improvements](assets/screenshots/tile-improvements.png)
 
-Different Build Rules allowed you to changed how player's can build improvements.
+Different Build Rules allowed you to changed how player's could build improvements.
 1. **Even Build**: *(Default)*: With Even Build, houses must be built evenly on each property in a colour group.
 2. **Free Build**: Free Build allow houses to be built unevenly once a complete colour group is owned.
 3. **City Build**: City Build allow houses to be built without owning a colour group.
@@ -208,3 +208,5 @@ Board pieces (player avatars) would react to what happened in-game. For example,
 In-game player reactions (non-verbal communication) concept using Animated emojis sourced from Google's [Noto Emoji Animated](https://googlefonts.github.io/noto-emoji-animation/) set. This was inspired by [Risk: Global Domination](https://store.steampowered.com/app/1128810/RISK_Global_Domination/)'s emote system.
 
 ![Player using an emoji reaction during a game](assets/concepts/user-reactions.gif)
+
+![Explorer - Emotes](assets/screenshots/explorer-emotes.png)
