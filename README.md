@@ -88,26 +88,26 @@ The screenshots below show both the final product and the game at various stages
 ![Lobby - Join Lobby](assets/screenshots/lobby-join.png)
 
 ### 2G. Shop - Gamepasses & Dice
-![image](assets/screenshots/shop-gamepasses-and-dice.png)
+![Shop - Gamepasses & Dice](assets/screenshots/shop-gamepasses-and-dice.png)
 
 ### 2H. Shop - Gold (In-game Currency)
-![image](assets/screenshots/shop-gold.png)
+![Shop - Gold](assets/screenshots/shop-gold.png)
 
 ### 2I. Settings
-![image](assets/screenshots/settings.png)
+![Settings - Volume & Controls](assets/screenshots/settings.png)
 
 ### 2J. Dice Skins
-![image](assets/screenshots/inventory-dice-skins.png)
+![Inventory - Dice Skins](assets/screenshots/inventory-dice-skins.png)
 
 ### 2K. House Rules
 
-![image](https://github.com/ryanmillard/Monopoly-Remake/assets/110338235/364a338b-0d19-48da-b0f1-e2d763439d32)
+![House Rules - Example 1](assets/screenshots/house-rules-example-1.png)
 
-![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/05fb2146-f901-4651-806a-f4b1bd10b212)
+![House Rules - Example 2](assets/screenshots/house-rules-example-2.png)
 
-![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/7034e4bd-5aae-4e87-ab42-fea737af5d81)
+![House Rules - Example 3](assets/screenshots/house-rules-example-3.png)
 
-![image](https://github.com/ryanmillard/bloxopoly/assets/110338235/3cf65aea-927e-428a-a030-d195beaab5e1)
+![House Rules - Example 4](assets/screenshots/house-rules-example-4.png)
 
 ## 3. In Game
 
