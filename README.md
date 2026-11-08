@@ -156,9 +156,8 @@ The screenshots below show both the final product and the game at various stages
 ![image](assets/screenshots/tile-improvements-example-2.png)
 
 > [!NOTE]
-> # Build Rules
-> Different build rules allowed you to changed how player's can build improvements.
-> 1. Even Build (Default): With Even Build, houses must be built evenly on each property in a color group.
+> Different Build Rules allowed you to changed how player's can build improvements.
+> 1. Even Build *(Default)*: With Even Build, houses must be built evenly on each property in a color group.
 > 2. Free Build: Free Build allow houses to be built unevenly once a complete color group is owned.
 > 3. City Build: City Build allow houses to be built without owning a color group.
 
