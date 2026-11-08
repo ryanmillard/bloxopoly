@@ -153,11 +153,10 @@ The screenshots below show both the final product and the game at various stages
 ### 3H. Tile Improvements
 ![Tile Improvements](assets/screenshots/tile-improvements.png)
 
-> [!NOTE]
-> Different Build Rules allowed you to changed how player's can build improvements.
-> 1. **Even Build**: *(Default)*: With Even Build, houses must be built evenly on each property in a colour group.
-> 2. **Free Build**: Free Build allow houses to be built unevenly once a complete colour group is owned.
-> 3. **City Build**: City Build allow houses to be built without owning a colour group.
+Different Build Rules allowed you to changed how player's can build improvements.
+1. **Even Build**: *(Default)*: With Even Build, houses must be built evenly on each property in a colour group.
+2. **Free Build**: Free Build allow houses to be built unevenly once a complete colour group is owned.
+3. **City Build**: City Build allow houses to be built without owning a colour group.
 
 ### 3I. Auction - Bidding
 ![image](https://github.com/user-attachments/assets/44fe8606-1422-4829-a184-38d3e6565d3d)
